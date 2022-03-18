@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    font-family: 'Fira-sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #F2F2F2;
+}
+header{
+    margin-bottom:26px ;
+}
+nav{
+    margin-bottom: 10px;
+}
+.top-table {
+    border-spacing: 30px;
+}
+
+.grid{
+    position: relative;
+    right: 30px;
+}
+
+p{
+    margin-top: 8px;
+    padding: 0;
+ width:  730px;   
+}
+
+h1{
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.a-footer{
+
+position: relative;
+width: 100px;
+height: 19px;
+font-style: none;
+font-weight: 500;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 4px;
+text-transform: uppercase;
+color: white;
+text-decoration: none;
+margin-left: 29.5px;
+margin-right: 29.5px;
+}
+
+footer{
+    position: relative;
+    background-color: #515151;
+    margin: 0;
+    margin-top: 150px;
+    height: 240px;
+    width: 100%;
+    padding: 60px;
+    
+}
+.footer-links{
+    color: white;
+   margin: 0; 
+   margin-bottom: 41px;
+   margin-left: 125px;
+}
+.btn{
+    background-color:#C6B393;
+    border: none;
+    width: 206px;
+    height: 40px;
+    color: white;
+    margin-right: 25.5px;
+}
+hr{
+    background-color: white;
+    opacity:0.2;
+    height: 1px;
+    border: 1px solid white;
+    margin-left: 125px;
+    margin-right:125px ;
+}
+
+.content{
+    margin-left: 125px;
+}
+
+.list{
+    text-transform: uppercase;
+    position: relative;
+    right: 30px;
+}
+
+.list-table{
+    border-spacing: 30px;
+}
+.abstract-photos{
+    position: relative;
+    margin-top: 70px;
+}
+.color{
+    margin:0;
+    padding: 0;
+    border: 0;
+    position:relative;
+    top: 99px;
+    left: 315px;
+    
+}
+.blackandwhite{
+    position: absolute;
+    top: 0;
+    left: 128;
+}
+
+
+a:hover{
+    text-decoration: none;
+    font-weight:500;
+    margin-right: 25px;
+    margin-top:26px;
+    margin-bottom: 40px;
+    color: #1434E1;
+    opacity: 1;
+    
+}
+
+a{
+    font-weight:500;
+    font-size:14px;
+    line-height: 24px;
+    letter-spacing:4px;
+    text-decoration: none;
+    font-style: normal;
+    margin-right: 25px;
+    margin-top:26px;
+    margin-bottom: 40px;
+    color: #222222;
+    opacity: 0.3;
+}
+
+.selected{
+    text-decoration: none;
+    font-weight:500;
+    margin-right: 25px;
+    margin-top:26px;
+    margin-bottom: 40px;
+    color: #1434E1;
+    opacity: 1;
+}
+
+.our-work{
+  margin-bottom: 30px;  
+}
